@@ -4,9 +4,13 @@ This project is a **Simple Calculator Web Application** created as part of the *
 
 The calculator performs basic arithmetic operations like 
 Addition
-Subtraction 
-Multiplication 
-Division 
+
+Subtraction
+
+Multiplication
+
+Division
+
 Percentage
 
 ---
@@ -14,9 +18,13 @@ Percentage
 # 📌 Intern Details
 
 Name:KANDEPU DHANA LAKSHMI
+
 Intern Id:BY25RY273090
+
 Domain:Web Development
+
 Organization:CodSoft
+
 ---
 
 # 🚀 Project Description
@@ -46,7 +54,9 @@ The project helps in understanding the basics of **DOM manipulation, event handl
 - **JavaScript** – Calculator functionality
 
 ---
+## Live Demo
 
-# 📜 Internship
+https://dhanalakshmi5b1.github.io/CodSoft-Calculator-Task3/
 
-This project was developed as part of **CODSOFT Web Development Internship - Task 3**.
+#Project Output
+![Calculator Output](output.png)
