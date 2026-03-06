@@ -33,7 +33,7 @@ The Calculator Web Application allows users to perform basic mathematical calcul
 
 Users can enter numbers and select arithmetic operations to instantly get results.
 
-The project helps in understanding the basics of **DOM manipulation, event handling, and JavaScript logic**.
+The project helps in understanding the basics of DOM manipulation, event handling, and JavaScript logic.
 
 ---
 
@@ -58,5 +58,7 @@ The project helps in understanding the basics of **DOM manipulation, event handl
 
 https://dhanalakshmi5b1.github.io/CodSoft-Calculator-Task3/
 
-#Project Output
+## Project Output
+
 ![Calculator Output](output.png)
+
